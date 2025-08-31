@@ -15,4 +15,7 @@ Our childhood was gone but there were lots of memories stored in the game like o
 
 
 4. Beginner-friendly project for practicing logic and control flow.
-5.
+ 
+5. 📝 Clear Rules – Explains which choice beats which (Stone > Scissors, Scissors > Paper, Paper > Stone).
+
+6. ⚡ Instant Result Display – Quickly shows who won each round.
